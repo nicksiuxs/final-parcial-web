@@ -16,4 +16,4 @@ const TaskSchema = Schema({
 });
 
 
-module.exports = model("Task", TaskSchema);
+module.exports = model("Mensajes", TaskSchema);
